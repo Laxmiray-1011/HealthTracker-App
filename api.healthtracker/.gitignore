@@ -1,0 +1,10 @@
+node_modules
+logs/*
+.DS_Store
+public/uploads
+
+# env file
+.env
+
+# config file
+config/config.json
